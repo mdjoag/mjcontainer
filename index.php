@@ -14,7 +14,7 @@ body {
 }
 
 #body-wrapper {
-    background-color: green;
+    background-color: orange;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -52,7 +52,7 @@ img {
 </head>
 <body>
 <div id="body-wrapper">
-<?php 
+<?php
 echo "
 <h1>Image Library with " . $storage_type . " storage backend.</h1>
 "
