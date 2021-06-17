@@ -14,7 +14,7 @@ body {
 }
 
 #body-wrapper {
-    background-color: orange;
+    background-color: yellow;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
